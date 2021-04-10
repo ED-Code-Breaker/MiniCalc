@@ -9,7 +9,10 @@ public class Adder {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+		int add()
+		{
+		return num1 + num2;
+		}
 	}
 
 }
